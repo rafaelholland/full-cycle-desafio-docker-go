@@ -19,7 +19,7 @@ Você deve receber a mensagem `Full Cycle Rocks!!` em seu terminal
 Para usar a imagem hospedada no dockerhub, basta usar o seguinte comando:
 
 ```bash
-docker push rholland/fullcycle-go:latest
+docker run hollandr/fullcycle-go:latest
 ```
 
 Você deve receber a mensagem `Full Cycle Rocks!!` em seu terminal
